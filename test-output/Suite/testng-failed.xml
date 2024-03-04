@@ -7,6 +7,13 @@
     <classes>
       <class name="testCases.Testcase">
         <methods>
+          <include name="displayusedcars"/>
+          <include name="pagevalidation"/>
+          <include name="printcarsexcel"/>
+          <include name="displaybikedata"/>
+          <include name="clickonlogin"/>
+          <include name="returntomainpage"/>
+          <include name="clickgoogle"/>
           <include name="closeBowser"/>
           <include name="errormessage"/>
           <include name="openUrl"/>

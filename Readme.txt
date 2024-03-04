@@ -17,7 +17,8 @@ This Java Selenium project automates tasks on the Zigwheel site, including navig
 - Page Object Model
 - TestNG
 - Apache POI
-- Cucumber Extent Report
+- Cucumber 
+- Extent Reports
 - Screenshot
 - Selenium Grid
 - Maven
@@ -27,9 +28,12 @@ This Java Selenium project automates tasks on the Zigwheel site, including navig
 -selenium-java
 -webdrivermanager
 -poi
--extentreports-cucumber7-adapter
+-extentreports
+-cucumber
 
 #HOW TO RUN
+By TestNG
+                -RUN testing.xml file
 By Cucumber
 		-RUN TestRunner.java file 		
 
